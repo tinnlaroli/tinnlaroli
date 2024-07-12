@@ -40,6 +40,7 @@ Soy un estudiante de IT en la Universidad Tecnológica del Centro de Veracruz ap
 * A BEES CODE
 * MENTAL CODE
 * AULEXANA
+* TEACHME
 
 
 ## Tecnologías que domino
