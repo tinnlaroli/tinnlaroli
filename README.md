@@ -21,7 +21,6 @@
 
 ## 🌟 Sobre mí
 
-```diff
 + Estudiante de IT apasionado por la tecnología y la mejora social a través del desarrollo tecnológico.
 + Técnico en programación, con un enfoque práctico y colaborativo.
 - Nunca me detengo hasta lograr el objetivo.
