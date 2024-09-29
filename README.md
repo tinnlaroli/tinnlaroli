@@ -3,7 +3,7 @@
 
 ---
 
-![Banner Superior](https://yourbannerlink.com) <!-- Puedes reemplazar este link por uno generado con un banner personalizado -->
+![Banner Superior](https://yourbannerlink.com) 
 
 <p align="center">
   <a href="https://github.com/tinnlaroli"><img src="https://img.shields.io/badge/GitHub-tinnlaroli-333?style=for-the-badge&logo=github"></a>
@@ -29,11 +29,11 @@ Soy un estudiante de IT en la Universidad Tecnológica del Centro de Veracruz, a
 Estoy buscando crear una comunidad tecnológica local y participar en eventos que promuevan el desarrollo de ideas innovadoras para la sociedad.
 
 🚀 Proyectos Destacados
-PROFAST
-A BEES CODE
-MENTAL CODE
-AULEXANA
-TEACHME
+- PROFAST
+- A BEES CODE
+- MENTAL CODE
+- AULEXANA
+- KALEV
 🛠️ Tecnologías que domino
 <p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"> </p>
 🌍 Idiomas
@@ -47,7 +47,5 @@ Estoy ampliando mis conocimientos en desarrollo full-stack y mejorando mi domini
 📫 ¿Dónde puedes encontrarme?
 <p align="center"> <a href="https://github.com/tinnlaroli"><img src="https://img.shields.io/badge/GitHub-tinnlaroli-333?style=for-the-badge&logo=github"></a> <a href="https://www.linkedin.com/in/martin-lara-olivares-9b46b1213/"><img src="https://img.shields.io/badge/LinkedIn-Martin_Lara_Olivares-0e76a8?style=for-the-badge&logo=linkedin"></a> <a href="https://www.instagram.com/tinnlaroli/"><img src="https://img.shields.io/badge/Instagram-tinnlaroli-E1306C?style=for-the-badge&logo=instagram"></a> </p>
 <p align="center"> <img src="https://github.com/tinnlaroli/tinnlaroli/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"> </p>
-⚡ Fun fact
-No tengo remordimientos y busco la felicidad plena en todo lo que hago. 🌈
 
-"No regrets and full happiness" 🌈
+"No regrets and full happiness" 
