@@ -1,55 +1,59 @@
-## Hello there 👋
+# ¡Hola, soy Martin Lara Olivares! 👋  
+### _aka tinn505_
 
-<!--
-**tinnlaroli/tinnlaroli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌟 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Martin Lara Olivares (tinn505)
+Soy un **estudiante de IT** en la Universidad Tecnológica del Centro de Veracruz, apasionado por la tecnología y con un fuerte enfoque en utilizarla para mejorar el mundo a mi alrededor. Además, soy un **técnico en programación** egresado del CBTis 47.
 
-## ¿Quién soy?
+Estoy buscando crear una **comunidad tecnológica local** y participar en eventos que promuevan el desarrollo de ideas innovadoras para la sociedad.
 
-Soy un estudiante de IT en la Universidad Tecnológica del Centro de Veracruz apasionado por la tecnologia pero pricipalmente en buscar ayudar con ella.
+---
 
-## ¿Qué hago?
+## 🚀 Proyectos Destacados
 
-* Estudiante universitario egresado como técnico en programación del CBTis 47.
-* Participante en diferentes eventos de exposición con diferentes ideas de desarrollo en busqueda de un bien para la sociedad.
-* Iniciando una comunidad de tecnologia local.
+- **PROFAST**  
+- **A BEES CODE**  
+- **MENTAL CODE**  
+- **AULEXANA**  
+- **TEACHME**
 
+---
 
-## ¿Dónde puedes encontrarme?
+## 🛠️ Tecnologías que domino
 
-* **GitHub : tinnlaroli**
-* **[Mi LinkedIn](https://www.linkedin.com/in/martin-lara-olivares-9b46b1213/)**
-* **[Mi Instagram](https://www.instagram.com/tinnlaroli/)**
+- **Java** (Programador Junior)
+- **HTML, CSS, JavaScript, PHP**
 
+---
 
-## Mis proyectos
+## 🌍 Idiomas
 
-* PROFAST
-* A BEES CODE
-* MENTAL CODE
-* AULEXANA
-* TEACHME
+- **Español** (Nativo)  
+- **Inglés** (Aprendiendo)  
+- **Francés** (Aprendiendo)
 
+---
 
-## Tecnologías que domino
+## 🌱 Actualmente aprendiendo...
 
-* Programador junior en Java con conocimientos de HTML, CSS , Js y PHP.
+Estoy ampliando mis conocimientos en **desarrollo full-stack** y mejorando mi dominio de **idiomas** para colaborar internacionalmente.
 
-## Idiomas
+---
 
-* mi idioma nativo es el Español estudiando Inglés y Francés.
+## 📫 ¿Dónde puedes encontrarme?
 
-## no regrets and full happiness
+- **GitHub:** [tinnlaroli](https://github.com/tinnlaroli)
+- **[LinkedIn](https://www.linkedin.com/in/martin-lara-olivares-9b46b1213/)**
+- **[Instagram](https://www.instagram.com/tinnlaroli/)**
 
+---
+
+## ⚡ Fun fact
+
+No tengo remordimientos y busco la **felicidad plena** en todo lo que hago.
+
+---
+
+_"No regrets and full happiness"_ 🌈
