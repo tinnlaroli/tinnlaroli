@@ -21,15 +21,15 @@ Soy un estudiante apasionado de Tecnologías de la Información en la Universida
 
 ## 🚀 Proyectos Destacados
 
-- **PROFAST**: Optimización de procesos empresariales.
-- **A BEES CODE**: Plataforma de aprendizaje para jóvenes programadores.
-- **MENTAL CODE**: Aplicación para el bienestar mental.
+- **PROFAST**: Optimización de procesos alimeticios.
+- **A BEES CODE**: Sistema a la medida empresarial.
+- **MENTAL CODE**: Aplicación para el gestionamiento y apoyo.
 - **AULEXANA**: Sistema educativo interactivo.
-- **KALEV**: Plataforma de gestión de proyectos.
+- **KALEV**: Plataforma de apoyo al docente en las estrategias de enseñanza.
 
 ---
 
-## 🛠️ Tecnologías que domino
+## 🛠️ Tecnologías que practico
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"> 
@@ -77,12 +77,11 @@ Soy un estudiante apasionado de Tecnologías de la Información en la Universida
 
 ---
 
-## ⚡ Fun fact
 
 *"No regrets and full happiness"*
 
 ---
 
-<p align="center">
+<!--<p align="center">
   <img src="https://raw.githubusercontent.com/tinnlaroli/tinnlaroli/main/assets/github-contribution-grid-snake.svg" alt="Snake Animation">
-</p>
+</p>-->
