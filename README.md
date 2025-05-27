@@ -26,7 +26,7 @@ Soy un estudiante apasionado de Tecnologías de la Información en la Universida
 - **MENTAL CODE**: Aplicación para el gestionamiento y apoyo.
 - **AULEXANA**: Sistema educativo interactivo.
 - **KALEV**: Plataforma de apoyo al docente en las estrategias de enseñanza.
-
+- **SMARTUR**: Plataforma de recomendacion para el impulso del turismo en la region de las altas montañas.
 ---
 
 ## 🛠️ Tecnologías que practico
