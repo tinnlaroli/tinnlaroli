@@ -46,7 +46,7 @@ Soy un estudiante apasionado de Tecnologías de la Información en la Universida
 <p align="center"> 
   <img src="https://img.shields.io/badge/Español-Nativo-green?style=for-the-badge"> 
   <img src="https://img.shields.io/badge/Inglés-Aprendiendo-yellow?style=for-the-badge"> 
-  <img src="https://img.shields.io/badge/Francés-Aprendiendo-yellow?style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/Francés-B1-yellow?style=for-the-badge"> 
 </p>
 
 ---
