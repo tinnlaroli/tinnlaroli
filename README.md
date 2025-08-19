@@ -1,9 +1,4 @@
-# ¡Hola, soy Martin Lara Olivares! 👋  
-### _aka tinn505_
-
----
-
-![Banner Superior](https://via.placeholder.com/1200x400/FF7F50/333333?text=¡Hola,+soy+Martin+Lara+Olivares!) <!-- Personaliza este banner -->
+# ¡hola mundo, soy tinnlaroli!  
 
 <p align="center">
   <a href="https://github.com/tinnlaroli"><img src="https://img.shields.io/badge/GitHub-tinnlaroli-333?style=for-the-badge&logo=github"></a>
