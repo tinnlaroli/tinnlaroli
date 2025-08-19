@@ -1,4 +1,14 @@
-# ¡hola mundo, soy tinnlaroli!  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tinnlaroli&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  
+<img src="https://readme-typing-svg.demolab.com/?lines=Hello%20There!;&font=Fira%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&pause=1000&size=25" />
+
+
+#  soy tinnlaroli!  
+</p>
 
 <p align="center">
   <a href="https://github.com/tinnlaroli"><img src="https://img.shields.io/badge/GitHub-tinnlaroli-333?style=for-the-badge&logo=github"></a>
@@ -7,6 +17,7 @@
 </p>
 
 ---
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 ## 🌟 Sobre mí
 
@@ -24,40 +35,29 @@ Soy un estudiante apasionado de Tecnologías de la Información en la Universida
 - **SMARTUR**: Plataforma de recomendacion para el impulso del turismo en la region de las altas montañas.
 ---
 
-## 🛠️ Tecnologías que practico
+##  Tecnologías y herramientas :
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> 
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-</p>
 
+![My Skills](https://skillicons.dev/icons?i=linux,arch,ubuntu,java,git,github,html,css,javascript,php,nodejs,postman,react,tailwind,express,mysql,postgresql,mongodb,angular)
+
+</p>
 ---
 
-## 🌍 Idiomas
+## Idiomas
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Español-Nativo-green?style=for-the-badge"> 
-  <img src="https://img.shields.io/badge/Inglés-Aprendiendo-yellow?style=for-the-badge"> 
-  <img src="https://img.shields.io/badge/Francés-B1-yellow?style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/Español-green?style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/Inglés-yellow?style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/Francés-yellow?style=for-the-badge"> 
 </p>
 
----
 
-## 🌱 Actualmente aprendiendo...
-
-- Desarrollo Full-Stack para mejorar mis habilidades en front y back-end.
-- Mejorando mis competencias en idiomas para colaborar internacionalmente.
-
----
-
-## 📊 Estadísticas de GitHub
+## Estadísticas 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tinnlaroli&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinnlaroli&layout=compact&theme=radical" alt="Top Languages" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinnlaroli&show_icons=true&theme=radical" alt="Top Languages" width="45%">
 </p>
 
 ---
