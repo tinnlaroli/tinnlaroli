@@ -53,8 +53,8 @@ Soy un estudiante apasionado de Tecnologías de la Información en la Universida
 ## Estadísticas 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tinnlaroli&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinnlaroli&show_icons=true&theme=radical" alt="Top Languages" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=tinnlaroli&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinnlaroli&show_icons=true&theme=radical" alt="Top Languages" width="400" height="200">
 </p>
 
 ---
