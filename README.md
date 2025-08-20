@@ -3,8 +3,7 @@
   
 <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20There!;&font=Fira%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&pause=1000&size=25" />
 
-
-#  soy tinnlaroli!  
+ soy tinnlaroli!  
 </p>
 
 
