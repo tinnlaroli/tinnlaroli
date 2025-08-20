@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tinnlaroli"><img src="https://img.shields.io/badge/GitHub-tinnlaroli-333?style=for-the-badge&logo=github"></a>
+  <a href="mailto:martinlaraolivares@gmail.com"><img src="https://img.shields.io/badge/Gmail-martinlaraolivares@gmail.com-D14836?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/martin-lara-olivares-9b46b1213/"><img src="https://img.shields.io/badge/LinkedIn-Martin_Lara_Olivares-0e76a8?style=for-the-badge&logo=linkedin"></a>
   <a href="https://www.instagram.com/tinnlaroli/"><img src="https://img.shields.io/badge/Instagram-tinnlaroli-E1306C?style=for-the-badge&logo=instagram"></a>
 </p>
