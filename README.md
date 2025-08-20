@@ -71,9 +71,3 @@ Soy un estudiante apasionado de Tecnologías de la Información en la Universida
 
 
 *"No regrets and full happiness"*
-
----
-
-<!--<p align="center">
-  <img src="https://raw.githubusercontent.com/tinnlaroli/tinnlaroli/main/assets/github-contribution-grid-snake.svg" alt="Snake Animation">
-</p>-->
