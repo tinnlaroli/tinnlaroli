@@ -7,22 +7,18 @@
 #  soy tinnlaroli!  
 </p>
 
-<p align="center">
-  <a href="mailto:martinlaraolivares@gmail.com"><img src="https://img.shields.io/badge/Gmail-martinlaraolivares@gmail.com-D14836?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/martin-lara-olivares-9b46b1213/"><img src="https://img.shields.io/badge/LinkedIn-Martin_Lara_Olivares-0e76a8?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.instagram.com/tinnlaroli/"><img src="https://img.shields.io/badge/Instagram-tinnlaroli-E1306C?style=for-the-badge&logo=instagram"></a>
-</p>
+
 
 ---
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-## 🌟 Sobre mí
+##  Sobre mí
 
 Soy un estudiante apasionado de Tecnologías de la Información en la Universidad Tecnológica del Centro de Veracruz, y técnico en programación, egresado del CBTis 47. Me especializo en el desarrollo de soluciones tecnológicas para mejorar la sociedad y trabajo constantemente en proyectos colaborativos. Mi enfoque es siempre lograr los objetivos con dedicación y compromiso.
 
 ---
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
 - **PROFAST**: Optimización de procesos alimeticios.
 - **A BEES CODE**: Sistema a la medida empresarial.
@@ -59,11 +55,11 @@ Soy un estudiante apasionado de Tecnologías de la Información en la Universida
 
 ---
 
-## 📫 ¿Dónde puedes encontrarme?
+##  ¿Dónde puedes encontrarme?
 
 <p align="center">
-  <a href="https://github.com/tinnlaroli"><img src="https://img.shields.io/badge/GitHub-tinnlaroli-333?style=for-the-badge&logo=github"></a> 
-  <a href="https://www.linkedin.com/in/martin-lara-olivares-9b46b1213/"><img src="https://img.shields.io/badge/LinkedIn-Martin_Lara_Olivares-0e76a8?style=for-the-badge&logo=linkedin"></a> 
+  <a href="mailto:martinlaraolivares@gmail.com"><img src="https://img.shields.io/badge/Gmail-martinlaraolivares@gmail.com-D14836?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/martin-lara-olivares-9b46b1213/"><img src="https://img.shields.io/badge/LinkedIn-Martin_Lara_Olivares-0e76a8?style=for-the-badge&logo=linkedin"></a>
   <a href="https://www.instagram.com/tinnlaroli/"><img src="https://img.shields.io/badge/Instagram-tinnlaroli-E1306C?style=for-the-badge&logo=instagram"></a>
 </p>
 
