@@ -25,7 +25,18 @@ Actualmente aprendiendo **IA aplicada a sistemas inteligentes**.
 
 <p align="center"> 
 
-![My Skills](https://skillicons.dev/icons?i=linux,arch,ubuntu,java,git,github,html,css,javascript,php,nodejs,postman,react,tailwind,express,mysql,postgresql,mongodb,angular)
+
+<b>Frontend</b><br>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,tailwind" />
+<br><br>
+<b>Backend</b><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+<br><br>
+<b>Bases de datos</b><br>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+<br><br>
+<b>DevOps & Tools</b><br>
+<img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,git,github,postman" />
 
 </p>
 
