@@ -41,10 +41,9 @@ Soy un universitario apasionado del desarrollo de software. Me especializo en el
 
 ## Estadísticas 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tinnlaroli&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinnlaroli&show_icons=true&theme=radical" alt="Top Languages" width="45%">
-</p>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=tinnlaroli&theme=radical&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinnlaroli&layout=compact&theme=radical&count_private=true&hide_border=true)</a><br /><br />
+<a href="#">![Trophies](https://github-profile-trophy.vercel.app/?username=tinnlaroli&theme=radical&count_private=true&hide_border=true&column=9) </a>
 
 ---
 
