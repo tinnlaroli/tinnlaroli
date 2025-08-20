@@ -78,13 +78,12 @@
   <a href="mailto:martinlaraolivares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/martin-lara-olivares-9b46b1213/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/tinnlaroli/"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-
-
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Español-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Inglés-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/Francés-yellow?style=for-the-badge">
 </p>
-
 
 ---
 <div align="center">
