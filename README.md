@@ -42,24 +42,20 @@
 
 ##  Tecnologías
 
-<table align="center">
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,tailwind" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,php" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Bases de datos</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>DevOps & Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,git,github,postman" /></td>
-  </tr>
-</table>
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,tailwind" />
+  <br><br>
+  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+  <br><br>
+  
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+  <br><br>
+  
+  <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,git,github,postman" />
+</div>
 
 
 ---
@@ -80,9 +76,9 @@
 
 <p align="center">
 
-  <a href="mailto:martinlaraolivares@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" title="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/martin-lara-olivares-9b46b1213/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/></a>
-  <a href="https://www.instagram.com/tinnlaroli/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" title="Instagram"/></a>
+  <a href="mailto:martinlaraolivares@gmail.com"><img src="https://img.shields.io/badge/Gmail-martinlaraolivares-D14836?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/martin-lara-olivares-9b46b1213/"><img src="https://img.shields.io/badge/Linkedin-Martin_Lara_Olivares-0e76a8?style=for-the-badge&logo=Linkedin"></a>
+  <a href="https://www.instagram.com/tinnlaroli/"><img src="https://img.shields.io/badge/tinnlaroli-E1306C?style=for-the-badge&logo=instagram"></a>
 </p>
 
 <p align="center"> 
@@ -99,5 +95,9 @@
 </div>
 
 <p align="center"><b>"No regrets and full happiness"</b></p>
+
+  <a href="mailto:martinlaraolivares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/martin-lara-olivares-9b46b1213/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/tinnlaroli/"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 
