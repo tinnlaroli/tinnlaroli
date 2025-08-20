@@ -6,8 +6,8 @@
 
 
 <h2 align="center">¡Hola! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Soy <b>Tinnlaroli</b></h2>
-<p align="center">Desarrollador apasionado por la tecnología, la colaboración y el aprendizaje constante.</p>
-<p align="center"><i>"Transformando ideas en soluciones que impactan positivamente."</i></p>
+<p align="center"> <h2>Desarrollador apasionado por la tecnología, la colaboración y el aprendizaje constante.</h2>/p>
+<p align="center"><i> <h2>"Transformando ideas en soluciones que impactan positivamente." </h2></i></p>
 
 
 ##  Proyectos Destacados
@@ -73,14 +73,12 @@
 
 ---
 
-<p align="center"> 
+<div align="center"> 
 
   <a href="mailto:martinlaraolivares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/martin-lara-olivares-9b46b1213/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/tinnlaroli/"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-<br>
-<p align="center">
+
   <img src="https://img.shields.io/badge/Español-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Inglés-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/Francés-yellow?style=for-the-badge">
