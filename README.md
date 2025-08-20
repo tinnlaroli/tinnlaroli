@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-##  Tecnologías y herramientas :
+##  Tecnologías
 
 <table align="center">
   <tr>
@@ -64,14 +64,7 @@
 
 ---
 
-## Idiomas
 
-<p align="center"> 
-
-  <img src="https://img.shields.io/badge/Español-nativo-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Inglés-intermedio-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Francés-básico-yellow?style=for-the-badge">
-</p>
 
 
 ## Estadísticas 
@@ -84,7 +77,6 @@
 
 ---
 
-##  Contacto
 
 <p align="center">
   <a href="mailto:martinlaraolivares@gmail.com"><img src="https://img.shields.io/badge/Gmail-martinlaraolivares-D14836?style=for-the-badge&logo=gmail"></a>
@@ -92,11 +84,19 @@
   <a href="https://www.instagram.com/tinnlaroli/"><img src="https://img.shields.io/badge/tinnlaroli-E1306C?style=for-the-badge&logo=instagram"></a>
 </p>
 
+<p align="center"> 
+
+  <img src="https://img.shields.io/badge/Español-nativo-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Inglés-intermedio-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Francés-básico-yellow?style=for-the-badge">
+</p>
+
+
 ---
 <div align="center">
   <img src="https://github.com/tinnlaroli/tinnlaroli/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif">
 </div>
 
-<p align="center"><b>"No regrets and full happiness"</b> 🚀</p>
+<p align="center"><b>"No regrets and full happiness"</b></p>
 
 
