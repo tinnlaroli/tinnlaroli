@@ -68,6 +68,8 @@ Soy un estudiante apasionado de Tecnologías de la Información en la Universida
 </p>
 
 ---
-
+<div align="center">
+![snake gif](https://github.com/tinnlaroli/tinnlaroli/blob/output/github-snake-dark.svg)
+</div>
 
 *"No regrets and full happiness"*
