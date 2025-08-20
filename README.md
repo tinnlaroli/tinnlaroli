@@ -79,9 +79,10 @@
 
 
 <p align="center">
-  <a href="mailto:martinlaraolivares@gmail.com"><img src="https://img.shields.io/badge/Gmail-martinlaraolivares-D14836?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/martin-lara-olivares-9b46b1213/"><img src="https://img.shields.io/badge/Linkedin-Martin_Lara_Olivares-0e76a8?style=for-the-badge&logo=Linkedin"></a>
-  <a href="https://www.instagram.com/tinnlaroli/"><img src="https://img.shields.io/badge/tinnlaroli-E1306C?style=for-the-badge&logo=instagram"></a>
+
+  <a href="mailto:martinlaraolivares@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" title="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/martin-lara-olivares-9b46b1213/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/></a>
+  <a href="https://www.instagram.com/tinnlaroli/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" title="Instagram"/></a>
 </p>
 
 <p align="center"> 
