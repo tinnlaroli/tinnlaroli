@@ -6,8 +6,8 @@
 
 
 <h2 align="center">¡Hola! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Soy <b>Tinnlaroli</b></h2>
-<p align="center"> <h2>Desarrollador apasionado por la tecnología, la colaboración y el aprendizaje constante.</h2>/p>
-<p align="center"><i> <h2>"Transformando ideas en soluciones que impactan positivamente." </h2></i></p>
+<p align="center"> Desarrollador apasionado por la tecnología, la colaboración y el aprendizaje constante.</p>
+<p align="center"><i>"Transformando ideas en soluciones que impactan positivamente." </i></p>
 
 
 ##  Proyectos Destacados
