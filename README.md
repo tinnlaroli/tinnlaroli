@@ -83,9 +83,9 @@
 
 <p align="center"> 
 
-  <img src="https://img.shields.io/badge/Español-nativo-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Inglés-intermedio-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Francés-básico-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Español-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Inglés-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Francés-yellow?style=for-the-badge">
 </p>
 
 
