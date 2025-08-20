@@ -2,26 +2,20 @@
 <p align="center">
   
 <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20There!;&font=Fira%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&pause=1000&size=25" />
-
- soy tinnlaroli!  
+ <h1> soy tinnlaroli!  </h1>
 </p>
 
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre mí
 
-
----
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
-##  Sobre mí
-
-Soy un estudiante apasionado de Tecnologías de la Información en la Universidad Tecnológica del Centro de Veracruz, y técnico en programación, egresado del CBTis 47. Me especializo en el desarrollo de soluciones tecnológicas para mejorar la sociedad y trabajo constantemente en proyectos colaborativos. Mi enfoque es siempre lograr los objetivos con dedicación y compromiso.
+Soy un universitario apasionado del desarrollo de software. Me especializo en el desarrollo de soluciones tecnológicas para mejorar la sociedad y trabajo constantemente en proyectos colaborativos. Mi enfoque es siempre lograr los objetivos con dedicación y compromiso.
 
 ---
 
 ##  Proyectos Destacados
 
 - **PROFAST**: Optimización de procesos alimeticios.
-- **A BEES CODE**: Sistema a la medida empresarial.
-- **MENTAL CODE**: Aplicación para el gestionamiento y apoyo.
+- **A BEES CODE**: Sistema empresarial a la medida .
+- **MENTAL CODE**: Aplicación para el gestionamiento y apoyo en citas de atención psicologica.
 - **AULEXANA**: Sistema educativo interactivo.
 - **KALEV**: Plataforma de apoyo al docente en las estrategias de enseñanza.
 - **SMARTUR**: Plataforma de recomendacion para el impulso del turismo en la region de las altas montañas.
