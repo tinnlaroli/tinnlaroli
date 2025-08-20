@@ -2,17 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20There,%20soy%20Tinnlaroli;Apasionado%20del%20Software;Siempre%20aprendiendo%20y%20creciendo;&font=Fira%20Code&center=true&width=500&height=45&color=00FFFF&vCenter=true&pause=1000&size=25" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" />
-</p>
 
-<h2 align="center">¡Hola! 👋 Soy <b>Tinnlaroli</b></h2>
+
+
+<h2 align="center">¡Hola! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Soy <b>Tinnlaroli</b></h2>
 <p align="center">Desarrollador apasionado por la tecnología, la colaboración y el aprendizaje constante.</p>
 <p align="center"><i>"Transformando ideas en soluciones que impactan positivamente."</i></p>
-
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre mí
-
 
 
 ##  Proyectos Destacados
@@ -44,7 +39,6 @@
     <td>Plataforma de recomendación turística para la región de las altas montañas.</td>
   </tr>
 </table>
----
 
 ##  Tecnologías y herramientas :
 
@@ -95,7 +89,7 @@
 <p align="center">
   <a href="mailto:martinlaraolivares@gmail.com"><img src="https://img.shields.io/badge/Gmail-martinlaraolivares-D14836?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/martin-lara-olivares-9b46b1213/"><img src="https://img.shields.io/badge/Linkedin-Martin_Lara_Olivares-0e76a8?style=for-the-badge&logo=Linkedin"></a>
-  <a href="https://www.instagram.com/tinnlaroli/"><img src="https://img.shields.io/badge/Instagram-tinnlaroli-E1306C?style=for-the-badge&logo=instagram"></a>
+  <a href="https://www.instagram.com/tinnlaroli/"><img src="https://img.shields.io/badge/tinnlaroli-E1306C?style=for-the-badge&logo=instagram"></a>
 </p>
 
 ---
