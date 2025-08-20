@@ -1,15 +1,15 @@
-  
 <p align="center">
-  
-<img src="https://readme-typing-svg.demolab.com/?lines=Hello%20There,%20soy%20Tinnlaroli;&font=Fira%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&pause=1000&size=25" />
-
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20There,%20soy%20Tinnlaroli;Apasionado%20del%20Software;Siempre%20aprendiendo%20y%20creciendo;&font=Fira%20Code&center=true&width=500&height=45&color=00FFFF&vCenter=true&pause=1000&size=25" />
 </p>
+
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre mí
 
-Soy un universitario apasionado del desarrollo de software. Me especializo en el desarrollo de soluciones tecnológicas para mejorar la sociedad y trabajo constantemente en proyectos colaborativos. Mi enfoque es siempre lograr los objetivos con dedicación y compromiso.
+Estudiante de **Desarrollo de Software** en la [UTCV](https://www.utcv.edu.mx).  
+Enfocado en crear soluciones tecnológicas que impacten de manera positiva en la sociedad.  
+Amante del trabajo colaborativo y de los retos.  
+Actualmente aprendiendo **IA aplicada a sistemas inteligentes**.  
 
----
 
 ##  Proyectos Destacados
 
@@ -28,6 +28,8 @@ Soy un universitario apasionado del desarrollo de software. Me especializo en el
 ![My Skills](https://skillicons.dev/icons?i=linux,arch,ubuntu,java,git,github,html,css,javascript,php,nodejs,postman,react,tailwind,express,mysql,postgresql,mongodb,angular)
 
 </p>
+
+
 ---
 
 ## Idiomas
