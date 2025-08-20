@@ -1,8 +1,8 @@
   
 <p align="center">
   
-<img src="https://readme-typing-svg.demolab.com/?lines=Hello%20There!;&font=Fira%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&pause=1000&size=25" />
- <h1> soy tinnlaroli!  </h1>
+<img src="https://readme-typing-svg.demolab.com/?lines=Hello%20There,%20soy%20Tinnlaroli;&font=Fira%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&pause=1000&size=25" />
+
 </p>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre mí
